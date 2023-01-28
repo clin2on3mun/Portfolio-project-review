@@ -214,6 +214,7 @@ hr {
   color: #fff;
   margin-left: 8px;
   border: none;
+  float: left;
 }
 
 .btn-allProjects button {
@@ -341,6 +342,7 @@ ul {
 }
 
 .exp2 {
+  
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
